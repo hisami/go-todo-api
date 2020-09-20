@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"./controller"
+	"github.com/hisami/go-todo-api/src/controller"
 )
 
 func main() {

@@ -2,7 +2,7 @@ package controller
 
 import (
 	"github.com/gin-gonic/gin"
-	"../model"
+	"github.com/hisami/go-todo-api/src/model"
 	"time"
 	"net/http"
 	"fmt"
